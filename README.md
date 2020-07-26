@@ -1,5 +1,8 @@
 # Face-Recognition-Project-using-OpenCV
 Face recognition is now done for various applications. The use of face_recognition module made it an easier task which provides a range of functions which can be used to perform several operations with the images.
+
+
+
 <BR>
 The commands used are:
 <BR>
@@ -18,3 +21,8 @@ This is a very useful application for marking the attendance of students during 
 
 <BR><BR> FUNCTIONS USED
 <BR>
+* cvtColor(): It is present in cv (computer vision) module which is used to convert images from one color space to another. Here, we have converted the images from BGR to RGB.
+* face_encodings(): It is a function present in face_recognition module which returns the 128-dimension face encoding for each face in the image.
+* face_locations(): Present returns an array of bounding boxes of human faces in a image. We have used it to find the locations of image recognised through live webcam feed.
+* compare_faces(): It compares a list of face encodings against a candidate encoding to see if they match.
+* face_distance(): Given a list of face encodings, compare them to a known face encoding and get a euclidean distance for each comparison face. The distance tells you how similar   the faces are.
