@@ -1,5 +1,5 @@
 # Face-Recognition-Project-using-OpenCV
-Face recognition is now done for various applications. The use of face_recognition module made it an easier task which provides a range of functions which can be used to perform several operations with the images.
+Face recognition is now done for various applicaations. The use of face_recognition module made it an easier task which provides a range of functions which can be used to perform several operations with the images.
 <BR>
 The commands used are:
 <BR>
