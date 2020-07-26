@@ -1,7 +1,7 @@
 # Face-Recognition-Project-using-OpenCV
 Face recognition is now done for various applications. The use of face_recognition module made it an easier task which provides a range of functions which can be used to perform several operations with the images.
 
-
+![face](https://user-images.githubusercontent.com/50629545/88485109-2ec39a80-cf91-11ea-97c7-f08b7d3a361b.png)
 
 <BR>
 The commands used are:
